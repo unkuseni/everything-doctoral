@@ -10,5 +10,6 @@ Currently, two official plugins are available:
 ## FOR CONTRIBUTORS
 
 - You can fork or clone the repository upon doing that pls create a branch for the specific feature you are working on/fixing then submit a pull request which will then be reviewed by the maintainers of the project and merged into the testing branch for testing the feature.
+- Make sure to stash your uncommited changes before submitting a pull request
 - Please make sure you have node installed
 - Run `npm install` in the project directory
